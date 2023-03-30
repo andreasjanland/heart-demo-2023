@@ -1,0 +1,98 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "tagline": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Elit sunt quis veniam est anim magna nulla anim mollit pariatur."
+            }
+          }
+        ]
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Dolore culpa ea commodo est ullamco ad proident proident ad officia consequat. Veniam consequat excepteur irure dolore duis labore elit veniam reprehenderit. Ut ea Lorem est adipisicing fugiat tempor magna proident consectetur."
+            }
+          }
+        ]
+      },
+      "alignment": {
+        "__TYPE__": "FieldContent",
+        "value": "Left",
+        "type": "Select"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "image",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+                "width": 4480,
+                "height": 4480
+              },
+              "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+              "width": 4480,
+              "height": 4480,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ],
+          [
+            "description",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Sint reprehenderit commodo ea ipsum mollit cupidatat ad enim pariatur aute aliqua nisi voluptate adipisicing."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "buttonLink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "http://google.com"
+              }
+            }
+          ],
+          [
+            "buttonText",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "almost",
+              "type": "Text"
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

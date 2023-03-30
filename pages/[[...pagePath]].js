@@ -23,8 +23,10 @@ export default Page;
 export async function getStaticProps({ params, previewData }) {
   const client = createClient({ previewData });
 
-  const uid = params.path?.[params.path.length - 1] || "home";
+  const uid = params.pagePath?.[params.pagePath.length - 1] || "home";
   const page = await client.getByUID("page", uid);
+
+  console.log(params)
 
   return {
     props: {

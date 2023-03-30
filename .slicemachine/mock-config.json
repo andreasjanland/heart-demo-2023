@@ -68,6 +68,11 @@
           }
         }
       }
+    },
+    "Text": {
+      "default": {
+        "primary": {}
+      }
     }
   },
   "_cts": {

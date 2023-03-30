@@ -1,0 +1,36 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Along"
+            }
+          }
+        ]
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Eiusmod cillum sit ut duis aute incididunt."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]
